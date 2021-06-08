@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Gerbing
-- 👀 I’m interested in making R accessible, easy to use, less Geeky, less code, more results
+- 👀 I’m interested in making R accessible, easy to use, less Geeky, less code, more results with R package lessR
 - 📫 How to reach me: gerbing@pdx.edu
 
 <!---
